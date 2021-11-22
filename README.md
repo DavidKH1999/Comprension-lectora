@@ -19,6 +19,7 @@ Por el momento se pretende trabajar con actividades y recursos educativos para n
 ## INTEGRANTES
 Ray David Martinez Guevara (COORDINADOR)
 Lemuel David Marzola Baron (COLABORADOR)
+Roberto Carlos Roqueme Fajardo (COLABORADOR) 
 
 
 
